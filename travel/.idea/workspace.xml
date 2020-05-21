@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489c4f6a-48a0-445b-866d-382709404739" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\install\apache-maven-3.6.3\maven_repository" />
+        <option name="mavenHome" value="D:/install/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\install\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1cCmOCYcBRMdsag9WPz9OdBedAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn tomcat7:run" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489c4f6a-48a0-445b-866d-382709404739" name="Default Changelist" comment="" />
+      <created>1590040914141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590040914141</updated>
+      <workItem from="1590040917808" duration="2530000" />
+      <workItem from="1590043721371" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590041569182">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1590041569182" />
+    <state width="1238" height="218" key="GridCell.Tab.0.bottom" timestamp="1590043454076">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1590043454076" />
+    <state width="1238" height="218" key="GridCell.Tab.0.center" timestamp="1590043454075">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1590043454075" />
+    <state width="1238" height="218" key="GridCell.Tab.0.left" timestamp="1590043454074">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1590043454074" />
+    <state width="1238" height="218" key="GridCell.Tab.0.right" timestamp="1590043454075">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1590043454075" />
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590044009174">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590044009174" />
+    <state x="301" y="174" width="672" height="677" key="run.anything.popup" timestamp="1590043063433">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="301" y="174" width="672" height="677" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1590043063433" />
+  </component>
+</project>
